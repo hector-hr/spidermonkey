@@ -4,3 +4,5 @@ this project was inspired by [this video](https://www.youtube.com/watch?v=-h_rj2
 big thanks to [this project](https://blog.securityevaluators.com/hacking-the-javascript-lottery-80cc437e3b7f)
 
 it works for firefox
+
+- Just give it a try.
