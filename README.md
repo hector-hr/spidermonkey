@@ -6,4 +6,4 @@ big thanks to [this project](https://blog.securityevaluators.com/hacking-the-jav
 it works for firefox
 
 - Just give it a try.
-- Just testing.
+- One more try.
